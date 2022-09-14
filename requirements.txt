@@ -1,0 +1,12 @@
+django
+djangorestframework
+requests
+django-cors-headers
+pyyaml
+selenium 
+# for websocket support
+channels
+
+# for testing purpose
+coverage==3.6
+pytest
